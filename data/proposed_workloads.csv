@@ -1,0 +1,4 @@
+workload,zone,quantity,rack_units,power_kw,cooling_kw
+Virtualisation Cluster,Hall-A,4,8,12.5,13.0
+Backup Expansion,Hall-B,2,6,7.0,7.5
+Network Refresh,Edge-Room,2,4,3.5,4.0
