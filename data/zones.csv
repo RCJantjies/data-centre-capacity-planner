@@ -1,0 +1,4 @@
+zone,total_rack_units,used_rack_units,total_power_kw,used_power_kw,total_cooling_kw,used_cooling_kw
+Hall-A,420,275,240,158,260,171
+Hall-B,360,190,210,121,225,132
+Edge-Room,84,52,48,31,52,34
